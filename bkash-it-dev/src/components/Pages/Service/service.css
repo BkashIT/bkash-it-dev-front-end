@@ -1,0 +1,15 @@
+.serviceCard{
+  padding: 10px;
+  background-color: rgba(216, 210, 210, 0.616);
+  border-radius: 5px solid black;
+  height: 380px;
+  width: auto;
+}
+.serviceCard img{
+  height: 280px;
+}
+.service-body h4{
+  text-align: center;
+  color: crimson;
+  font-weight: bold;
+}

@@ -1,0 +1,42 @@
+.nav-bg {
+  background-color: rgb(145, 24, 24);
+}
+
+.container-fluid img {
+  height: 100px;
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-brand {
+  color: rgb(255, 254, 254);
+  font-weight: bold;
+  font-size: 40px;
+}
+.navbar-brand:hover {
+  color: rgb(248, 4, 4);
+}
+.navbar-nav li a {
+  list-style: none;
+  text-decoration: none;
+}
+.nav-item a {
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  font-size: 12px;
+  margin-right: 20px;
+  text-transform: uppercase;
+}
+
+.nav-Link:hover {
+  color: rgb(248, 4, 4);
+}
+
+.navbar-toggler {
+  width: 47px;
+  height: 34px;
+}
+.navbar-toggler-icon{
+  color: rgb(252, 249, 249);
+}
